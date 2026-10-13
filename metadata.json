@@ -1,0 +1,6 @@
+{
+  "name": "簡単EA作成ツール EA Maker Zero (無料体験版) - 自動売買EAビルダー & バックテスター",
+  "description": "通貨ペア・時間足・PF・最大DD・希望取引回数を選択し、MT5不要で3か月参考バックテストとMQL4/MQL5コードを即時自動生成する無料体験版EA作成システム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
